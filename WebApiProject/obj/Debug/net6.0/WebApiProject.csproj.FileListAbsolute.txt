@@ -85,3 +85,4 @@ C:\Users\MASSTECH\source\repos\Shubham Parad\WebApiProject\WebApiProject\obj\Deb
 C:\Users\MASSTECH\source\repos\Shubham Parad\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.pdb
 C:\Users\MASSTECH\source\repos\Shubham Parad\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.genruntimeconfig.cache
 C:\Users\MASSTECH\source\repos\Shubham Parad\WebApiProject\WebApiProject\obj\Debug\net6.0\ref\WebApiProject.dll
+C:\Users\MASSTECH\source\repos\Shubham Parad\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.sourcelink.json
